@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wassana.seng@gmail.com
+	name = Wassana Sengsavang
